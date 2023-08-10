@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sandbox-automation-tols",
+  "private_key_id": "0e4ba04fed9980edda6b31bf5d522021ab5bce1f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCc3g2s3TOKf9Ka\nSoJxavoNczkpoZhjLSdEEbEWhny4WB4XG3XZ/CfOGHK7FXUx5dCZlhs69LNfMLUx\nBq6rKvSfYYCUajoluOqSeblaxKbKKODwgtxZ05ekjJvTpHaRewAYDDNmmmbCmFdo\njdpRcXLMEZn8yl464Vsz7ZdPxMJ5Mt/Pu93zbksq04pWkgQRQ14J2LM5J7AgLr+j\nedEHErx9zc6u/BnVACfDVTq82fQKBiIdbQG8CBAj4Vxz8dJ+Nx+v4Dk4mPisXBKW\nvsTml41RQ8AGB13TMjBOo+ZJg5iPztdPc1KOf4fF8MhD8Iew7JSvomnH2IFPL/40\nTGw4+06VAgMBAAECggEAISdoXgLxaAIMhaoeSDDbMRkLeZJLBhkOvbr8gd2CQibz\nkyAtaBk8Y3l01DgciSOAk1lvn2YE/CcsAHTgWVJumbnuhk+uQvdCcptR8s5xzvPV\nWNfbkQugtvk13QUbPzOvKSX4/iQ/eDzg6nriq8htwhYtRMmToV+sWj0KuCQGkz05\nu0myr0vwX0ZXBvvkhl21VIFcq3DgEdihDvcY++k2iPzHXFzdlEgug/b/dZAEeGZu\nVdTEGzLdXRfLGJwBZSKZSPnPB7fi3QunxTt/mdffQWDL6Jc+O4z5ssWW+GbUhEni\nIZbWoOujRLBomw2LR8MG9cDDCvf9wwsb8Ie3zaSewQKBgQDWhYU8pggYCZx9SbE8\n3PIoi9C91Qwy45YKA+2emngjv4LXc4D6WLR6n16pI5BMiMQMkPUQn0Nr3FRaJ2cQ\n0iGuSXjq/EpnmT8BDFBoexA0nm+kcxWKy0mY/29522+O+BobFGIcPKiG+JYmh47j\nnV0trkBjMwK8zi1NN+lTfbvSwQKBgQC7Mr4RPA0uqGJtbtpiF+RfodPMgybejf4Z\nbeuclv0poUP6SwsV7XTj+DFVfUKTN7z8VsMn5geDbHrQgpKQrHCNSJJcCVzRynu0\nb0fTBvHveuMN7oLl6zTnUrFMREaF1hNdc1KZCEflwJDWwv2YibXgwp0X9tJhkGdi\n/lfhjRX01QKBgQCJwnjLd7ve490wv/Anq6N+0jqcjYIl8+zYRamEnqHkIwn9HdmH\n6wsLa+i4KXRzEakEgNo/cGc1jupEcuVG8gpbCCe0j4ugd9Lz81p3nf/MKqp7KsR8\nuwtqSy7lTDuZzk3FchOHGpUHCAA0gf0KwnWh7jK/AXUSljyVSAB4c1f4gQKBgQCc\nrkLhX/bUl4ESgRbtxXuTA3qnkRpGamhEVnk+7i1k26Ju6sKTjtUoPcLk/9tqJtva\nBLCBQ4oEWRaOUMtlpb7qsdQ2jmuO+EAD7KQcH5L900gZkAklcXEtMExPPlIckOpS\nbES063Zp+XwBFOF2+8QsJBeiSCccG+Y8uA9MLG81JQKBgEd+L3LGKkr3mutzrYqJ\ncHWonWbDeIyp3DZ0RP6CX3TuPd6HZhAWY6CHSEKMRFfPnakzbTsek7PBtV5v5BVJ\nlNwWeFSzDWa6E0gF5n6FWq+u4Cg4Cnt3tWFyz9keLUX8bptq1bzd65VioGGZ3WKR\nqRce7/PACfqJFSk1y5iN1deg\n-----END PRIVATE KEY-----\n",
+  "client_email": "gspread-read@sandbox-automation-tols.iam.gserviceaccount.com",
+  "client_id": "111129686741002927554",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gspread-read%40sandbox-automation-tols.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
